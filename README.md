@@ -4,6 +4,39 @@ Hi there! I'm Mark John Ignacio 👋
 
 I am a passionate DevOps enthusiast and Web Developer with a strong background in PHP and MySQL. Currently, I am working on financial applications and continuously enhancing my skills in cloud computing and DevOps. Check out my projects and feel free to connect with me!
 
+## 🌟 Projects
+
+### [AWS Cloud Resume Challenge](https://github.com/mark-john-ignacio/aws-cloud-resume-challenge.git)
+- **Description:** Participated in Forrest Brazeal's Cloud Resume Challenge, showcasing my cloud skills.
+- **Technologies:** HTML, CSS, JavaScript, AWS (Lambda, API Gateway, DynamoDB, S3, CloudFront)
+- **Architecture:** 
+  - Frontend: Hosted on S3 and served through CloudFront.
+  - Backend: AWS Lambda functions, API Gateway, and DynamoDB for dynamic interactions.
+  - Infrastructure as Code: Managed with Terraform
+  - CI/CD Pipeline: Automated using GitHub Actions.
+- **Link:** [09276477.xyz](https://www.09276477.xyz)
+
+### [Online Thesis Archiving System](https://github.com/mark-john-ignacio/cvsu-otas.git)
+- **Description:** Developed a web application that allows students to upload and archive their thesis papers.
+- **Technologies:** PHP, MySQL, HTML, CSS, JavaScript
+- **Features:** 
+  - User-friendly interface for easy access and search functionality.
+  - Secure login system to protect student data and ensure privacy.
+
+### [School Library Web Application]()
+- **Description:** Developed a web application for Dei Gratia School to streamline library resource access.
+- **Technologies:** PHP, MySQL, HTML, CSS, JavaScript
+- **Features:**
+  - Efficient management of library resources.
+  - Improved access for students and staff.
+
+
+## 📜 Certifications
+
+- **AWS Certified Cloud Practitioner** - Amazon Web Services, 2024
+- **AWS re/Start Graduate** - Amazon Web Services, 2024
+- **Computer System Servicing NC2** - Technical Education and Skills Development Authority, 2019
+
 ## 🛠️ Skills & Tools
 
 ### Cloud Computing
@@ -41,33 +74,6 @@ I am a passionate DevOps enthusiast and Web Developer with a strong background i
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-## 🌟 Projects
-
-### [Online Thesis Archiving System](https://github.com/mark-john-ignacio/cvsu-otas.git)
-- **Description:** Developed a web application that allows students to upload and archive their thesis papers.
-- **Technologies:** PHP, MySQL, HTML, CSS, JavaScript
-- **Features:** 
-  - User-friendly interface for easy access and search functionality.
-  - Secure login system to protect student data and ensure privacy.
-
-### [AWS Cloud Resume Challenge](https://github.com/mark-john-ignacio/aws-cloud-resume-challenge.git)
-- **Description:** Participated in Forrest Brazeal's Cloud Resume Challenge, showcasing my cloud skills.
-- **Technologies:** HTML, CSS, JavaScript, AWS (Lambda, API Gateway, DynamoDB, S3, CloudFront)
-- **Architecture:** 
-  - Frontend: Hosted on S3 and served through CloudFront.
-  - Backend: AWS Lambda functions, API Gateway, and DynamoDB for dynamic interactions.
-  - Infrastructure as Code: Managed with AWS CloudFormation and SAM.
-  - CI/CD Pipeline: Automated using GitHub Actions.
-  - Monitoring: Implemented with AWS CloudWatch and X-Ray.
-- **Link:** [09276477.xyz](https://www.09276477.xyz)
-
-### [School Library Web Application]()
-- **Description:** Developed a web application for Dei Gratia School to streamline library resource access.
-- **Technologies:** PHP, MySQL, HTML, CSS, JavaScript
-- **Features:**
-  - Efficient management of library resources.
-  - Improved access for students and staff.
-
 ## 💼 Experience
 
 ### Web Developer (PHP/MySQL) - Financial Applications
@@ -88,16 +94,6 @@ I am a passionate DevOps enthusiast and Web Developer with a strong background i
 - Managed hardware and software installations.
 - Developed a web application for the school's library to streamline access to resources.
 
-### Administrative Assistant and Graphic Designer
-**Brownwood Hotel** | Mar 2019 - May 2019
-- Managed documents and created graphic designs.
-- Assisted with technical tasks and office management.
-
-## 📜 Certifications
-
-- **AWS Certified Cloud Practitioner** - Amazon Web Services, 2024
-- **AWS re/Start Graduate** - Amazon Web Services, 2024
-- **Computer System Servicing NC2** - Technical Education and Skills Development Authority, 2019
 
 ## 📞 Contact Information
 
