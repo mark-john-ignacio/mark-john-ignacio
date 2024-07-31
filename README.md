@@ -59,9 +59,9 @@ I am a passionate DevOps enthusiast and Web Developer with a strong background i
   - Infrastructure as Code: Managed with AWS CloudFormation and SAM.
   - CI/CD Pipeline: Automated using GitHub Actions.
   - Monitoring: Implemented with AWS CloudWatch and X-Ray.
-- **Link:** [09276477.xyz](http://09276477.xyz)
+- **Link:** [09276477.xyz](www.09276477.xyz)
 
-### [School Library Web Application](https://github.com/markme44/school-library-web-application)
+### [School Library Web Application]()
 - **Description:** Developed a web application for Dei Gratia School to streamline library resource access.
 - **Technologies:** PHP, MySQL, HTML, CSS, JavaScript
 - **Features:**
