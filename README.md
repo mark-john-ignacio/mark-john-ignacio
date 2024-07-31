@@ -1,6 +1,4 @@
-# Welcome to My GitHub Profile!
-
-Hi there! I'm Mark John Ignacio 👋
+# Hi there! I'm Mark John Ignacio 👋
 
 I am a passionate DevOps enthusiast and Web Developer with a strong background in PHP and MySQL. Currently, I am working on financial applications and continuously enhancing my skills in cloud computing and DevOps. Check out my projects and feel free to connect with me!
 
