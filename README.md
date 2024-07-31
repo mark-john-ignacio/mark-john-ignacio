@@ -2,9 +2,21 @@
 
 Hi there! I'm Mark John Ignacio 👋
 
-I am a passionate Web Developer with a strong background in PHP and MySQL, currently working on financial applications. I have experience in AWS, IT support, and graphic design, and I continuously strive to enhance my skills in cloud computing and DevOps. Check out my projects and feel free to connect with me!
+I am a passionate DevOps enthusiast and Web Developer with a strong background in PHP and MySQL. Currently, I am working on financial applications and continuously enhancing my skills in cloud computing and DevOps. Check out my projects and feel free to connect with me!
 
 ## 🛠️ Skills & Tools
+
+### Cloud Computing
+- Amazon Web Services (EC2, S3, RDS, VPC, IAM)
+
+### DevOps Tools
+- Docker
+- Bash Scripting
+
+### CI/CD
+- GitHub Actions
+- AWS CloudFormation
+- AWS SAM
 
 ### Programming Languages
 - PHP
@@ -14,13 +26,6 @@ I am a passionate Web Developer with a strong background in PHP and MySQL, curre
 
 ### Databases
 - MySQL
-
-### Cloud Computing
-- Amazon Web Services (EC2, S3, RDS, VPC, IAM)
-
-### DevOps Tools
-- Docker
-- Bash Scripting
 
 ### Development Tools
 - Git, GitHub
@@ -32,7 +37,7 @@ I am a passionate Web Developer with a strong background in PHP and MySQL, curre
 - Linux
 
 ### Frameworks
-- Codeigniter 4 (PHP)
+- CodeIgniter 4 (PHP)
 - Bootstrap (CSS)
 
 ## 🌟 Projects
