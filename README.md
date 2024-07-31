@@ -31,6 +31,10 @@ I am a passionate Web Developer with a strong background in PHP and MySQL, curre
 - Windows
 - Linux
 
+### Frameworks
+- Codeigniter 4 (PHP)
+- Bootstrap (CSS)
+
 ## 🌟 Projects
 
 ### [Online Thesis Archiving System](https://github.com/markme44/online-thesis-archiving-system)
