@@ -43,14 +43,14 @@ I am a passionate DevOps enthusiast and Web Developer with a strong background i
 
 ## 🌟 Projects
 
-### [Online Thesis Archiving System](https://github.com/markme44/online-thesis-archiving-system)
+### [Online Thesis Archiving System](https://github.com/mark-john-ignacio/cvsu-otas.git)
 - **Description:** Developed a web application that allows students to upload and archive their thesis papers.
 - **Technologies:** PHP, MySQL, HTML, CSS, JavaScript
 - **Features:** 
   - User-friendly interface for easy access and search functionality.
   - Secure login system to protect student data and ensure privacy.
 
-### [AWS Cloud Resume Challenge](https://github.com/markme44/aws-cloud-resume-challenge)
+### [AWS Cloud Resume Challenge](https://github.com/mark-john-ignacio/aws-cloud-resume-challenge.git)
 - **Description:** Participated in Forrest Brazeal's Cloud Resume Challenge, showcasing my cloud skills.
 - **Technologies:** HTML, CSS, JavaScript, AWS (Lambda, API Gateway, DynamoDB, S3, CloudFront)
 - **Architecture:** 
