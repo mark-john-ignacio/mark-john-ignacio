@@ -38,38 +38,37 @@ I am a passionate DevOps enthusiast and Web Developer with a strong background i
 ## 🛠️ Skills & Tools
 
 ### Cloud Computing
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 ### DevOps Tools
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 
 ### CI/CD
-- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-- ![Terraform](https://img.shields.io/badge/Terraform-7F5AB6?style=for-the-badge&logo=terraform&logoColor=white)
-
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://skillicons.dev)
+[![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)
 
 ### Programming Languages
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
 ### Databases
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ### Development Tools
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- ![Navicat](https://img.shields.io/badge/Navicat-2E8B57?style=for-the-badge&logo=navicat&logoColor=white)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![Navicat](https://skillicons.dev/icons?i=navicat)](https://skillicons.dev)
 
 ### Operating Systems
-- ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 ### Frameworks
-- ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CodeIgniter 4](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 
 
 ## 💼 Experience
