@@ -4,9 +4,6 @@ Hi there! I'm Mark John Ignacio 👋
 
 I am a passionate Web Developer with a strong background in PHP and MySQL, currently working on financial applications. I have experience in AWS, IT support, and graphic design, and I continuously strive to enhance my skills in cloud computing and DevOps. Check out my projects and feel free to connect with me!
 
-## 📈 Visitors: 
-![Visitor Count](https://countapi.xyz/hit/Markme44cvsu/Markme44cvsu)
-
 ## 📞 Contact Information
 
 - **Phone:** 09276477171
