@@ -15,8 +15,8 @@ I am a passionate DevOps enthusiast and Web Developer with a strong background i
 
 ### CI/CD
 - ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-- ![CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-5A5B5F?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- ![AWS SAM](https://img.shields.io/badge/AWS_SAM-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- ![Terraform](https://img.shields.io/badge/Terraform-7F5AB6?style=for-the-badge&logo=terraform&logoColor=white)
+
 
 ### Programming Languages
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
