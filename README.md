@@ -100,12 +100,12 @@ I am a passionate DevOps enthusiast and Web Developer with a strong background i
 
 ## 📈 GitHub Stats
 
-![Mark John Ignacio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=markme44&show_icons=true&theme=radical)
+![Mark John Ignacio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mark-john-ignacio&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markme44&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mark-john-ignacio&layout=compact&theme=radical)
 
 ---
 
 Feel free to check out my repositories and projects. I'm always open to feedback and collaboration. Let's build something amazing together!
 
-[![GitHub followers](https://img.shields.io/github/followers/markme44?label=Follow&style=social)](https://github.com/markme44)
+[![GitHub followers](https://img.shields.io/github/followers/mark-john-ignacio?label=Follow&style=social)](https://github.com/markme44)
