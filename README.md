@@ -14,6 +14,17 @@ I am a passionate DevOps enthusiast and Web Developer with a strong background i
   - CI/CD Pipeline: Automated using GitHub Actions.
 - **Link:** [resume.markjohnignacio.xyz](https://resume.markjohnignacio.xyz) - Link is currently down to minimize cost, since ipv4 cost a lot now due to recent aws [change](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/?sc_channel=sm&sc_campaign=Support&sc_publisher=REDDIT&sc_country=global&sc_geo=GLOBAL&sc_outcome=AWS%20Support&sc_content=Support&trk=Support&linkId=310531300)
 
+### [vProfile Lift and Shift Project](https://github.com/mark-john-ignacio/aws-vProfile-Lift-and-Shift)
+- **Description:** Deployed a multi-tier application on AWS using Terraform.
+- **Technologies:** Terraform, AWS (EC2, S3, IAM, ALB, Auto Scaling), Tomcat
+- **Architecture:** 
+  - **VPC**: A Virtual Private Cloud to host all resources.
+  - **Security Groups**: To control inbound and outbound traffic to instances.
+  - **EC2 Instances**: For the database, Memcached, RabbitMQ, and application servers.
+  - **IAM Role**: For accessing S3 buckets.
+  - **Load Balancer**: An Application Load Balancer (ALB) to distribute traffic.
+  - **Auto Scaling Group**: To manage the scaling of application servers.
+
 ### [Online Thesis Archiving System](https://github.com/mark-john-ignacio/cvsu-otas.git)
 - **Description:** Developed a web application that allows students to upload and archive their thesis papers.
 - **Technologies:** PHP, MySQL, HTML, CSS, JavaScript
