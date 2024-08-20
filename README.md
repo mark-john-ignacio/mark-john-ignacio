@@ -12,7 +12,6 @@ I am a passionate DevOps enthusiast and Web Developer with a strong background i
   - Backend: AWS Lambda functions, API Gateway, and DynamoDB for dynamic interactions.
   - Infrastructure as Code: Managed with Terraform
   - CI/CD Pipeline: Automated using GitHub Actions.
-- **Link:** [resume.markjohnignacio.xyz](https://resume.markjohnignacio.xyz) - Link is currently down to minimize cost, since ipv4 cost a lot now due to recent aws [change](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/?sc_channel=sm&sc_campaign=Support&sc_publisher=REDDIT&sc_country=global&sc_geo=GLOBAL&sc_outcome=AWS%20Support&sc_content=Support&trk=Support&linkId=310531300)
 
 ### [AWS VProfile PaaS Infrastructure](https://github.com/mark-john-ignacio/AWS-Vprofile-PAAS)
 - **Description:** Sets up the infrastructure for the VProfile application on AWS using Platform-as-a-Service (PaaS) products, leveraging Terraform for deployment.
