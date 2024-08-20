@@ -14,7 +14,18 @@ I am a passionate DevOps enthusiast and Web Developer with a strong background i
   - CI/CD Pipeline: Automated using GitHub Actions.
 - **Link:** [resume.markjohnignacio.xyz](https://resume.markjohnignacio.xyz) - Link is currently down to minimize cost, since ipv4 cost a lot now due to recent aws [change](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/?sc_channel=sm&sc_campaign=Support&sc_publisher=REDDIT&sc_country=global&sc_geo=GLOBAL&sc_outcome=AWS%20Support&sc_content=Support&trk=Support&linkId=310531300)
 
-### [vProfile Lift and Shift Project](https://github.com/mark-john-ignacio/aws-vProfile-Lift-and-Shift)
+### [AWS VProfile PaaS Infrastructure](https://github.com/mark-john-ignacio/AWS-Vprofile-PAAS)
+- **Description:** Sets up the infrastructure for the VProfile application on AWS using Platform-as-a-Service (PaaS) products, leveraging Terraform for deployment.
+- **Technologies:** Terraform, AWS (RDS, ElastiCache, Amazon MQ, Elastic Beanstalk, CloudFront)
+- **Architecture:**
+  - **RDS**: Managed MySQL database for application data.
+  - **ElastiCache**: In-memory caching layer using Memcached.
+  - **Amazon MQ**: Managed RabbitMQ for messaging services.
+  - **Elastic Beanstalk**: Platform for deploying and managing the application code.
+  - **CloudFront**: Content delivery network (CDN) for distributing static and dynamic content.
+  - **Security Groups & IAM Roles**: For securing and managing access to resources.
+
+### [AWS-vProfile Lift and Shift Project](https://github.com/mark-john-ignacio/aws-vProfile-Lift-and-Shift)
 - **Description:** Deployed a multi-tier application on AWS using Terraform.
 - **Technologies:** Terraform, AWS (EC2, S3, IAM, ALB, Auto Scaling), Tomcat
 - **Architecture:** 
@@ -31,13 +42,6 @@ I am a passionate DevOps enthusiast and Web Developer with a strong background i
 - **Features:** 
   - User-friendly interface for easy access and search functionality.
   - Secure login system to protect student data and ensure privacy.
-
-### [School Library Web Application]()
-- **Description:** Developed a web application for Dei Gratia School to streamline library resource access.
-- **Technologies:** PHP, MySQL, HTML, CSS, JavaScript
-- **Features:**
-  - Efficient management of library resources.
-  - Improved access for students and staff.
 
 
 ## 📜 Certifications
