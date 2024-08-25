@@ -2,6 +2,7 @@
 
 I am a passionate DevOps enthusiast and Web Developer with a strong background in PHP and MySQL. Currently, I am working on financial applications and continuously enhancing my skills in cloud computing and DevOps. Check out my projects and feel free to connect with me!
 
+
 ## 🌟 Projects
 
 ### [AWS Cloud Resume Challenge](https://github.com/mark-john-ignacio/aws-cloud-resume-challenge.git)
@@ -11,7 +12,8 @@ I am a passionate DevOps enthusiast and Web Developer with a strong background i
   - Frontend: Hosted on S3 and served through CloudFront.
   - Backend: AWS Lambda functions, API Gateway, and DynamoDB for dynamic interactions.
   - Infrastructure as Code: Managed with Terraform
-  - CI/CD Pipeline: Automated using GitHub Actions.
+  - CI/CD Pipeline: Automated using GitHub Actions
+ - **Link** https://www.markjohnignacio.com/
 
 ### [AWS VProfile PaaS Infrastructure](https://github.com/mark-john-ignacio/AWS-Vprofile-PAAS)
 - **Description:** Sets up the infrastructure for the VProfile application on AWS using Platform-as-a-Service (PaaS) products, leveraging Terraform for deployment.
